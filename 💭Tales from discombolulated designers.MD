@@ -5,3 +5,5 @@ __Marcus__
 When I was younger and desperately wanted to get into digital illustration, I was put off by the daunting prices of the Abode programs. Every other professional illustrator and designer I saw on social media was using software like Photoshop and Illustrator and I just couldn’t afford it! The lack of information about free and open source software hindered my creative advances and my future as a designer was discouraging. There is a critical need for the sharing of accessible design tools and we as a community need to come together and build a space for all designers. 
 
 __Malcolm__
+
+
