@@ -3,7 +3,7 @@
 👋 Intro
 
 This is the open-source design manifesto. An initiative to inform and inspire a movement that moves away from opaque or paywalled software towards a more transparent and free internet. In a world where visual communication holds so much power, accessibility in graphic design is not just a luxury, but a fundamental right. 
-At its core, graphic design is about communication. It shapes our perception and connects us with the world around us. However, when the tools we use to create design fail to consider the diverse needs of its audience, it becomes exclusionary, perpetuating inequalities and marginalizing voices. 
+At its core, graphic design is about communication. It shapes our perception and connects us with the world around us. However, when the tools we use to create design fail to consider the diverse needs of its audience, it becomes exclusionary, perpetuating inequalities and marginalizing voices. We try to do this by providing info and links to free-to-use open-source software used in design.
 
 📜 Lore
 
