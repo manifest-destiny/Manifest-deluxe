@@ -28,4 +28,4 @@ We should foster a sense of community and collaboration within the design space,
 
 This manifesto advocates for a shift toward accessible design practices, ensuring that nobody is left behind in the conversation. Break through the barriers of Adobes monopoly on the design world by contributing, collaborating and growing the open-source software ecosystem. Embrace design for all!
 
---->
+<3
