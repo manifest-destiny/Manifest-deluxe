@@ -1,4 +1,4 @@
-# MANIFEST
+# Manifest
 
 👋 Intro
 
