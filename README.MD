@@ -1,3 +1,5 @@
+#MANIFEST#
+
 👋 Intro
 
 This is the open-source design manifesto. An initiative to inform and inspire a movement that moves away from opaque or paywalled software towards a more transparent and free internet. In a world where visual communication holds so much power, accessibility in graphic design is not just a luxury, but a fundamental right. 
