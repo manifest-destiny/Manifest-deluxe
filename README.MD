@@ -31,22 +31,22 @@ We should foster a sense of community and collaboration within the design space,
 This manifesto advocates for a shift toward accessible design practices, ensuring that nobody is left behind in the conversation. Break through the barriers of Adobes monopoly on the design world by contributing, collaborating and growing the open-source software ecosystem. Embrace design for all!
 
                                                                       
-                                                                              _nnnn_
-                                                                              dGGGGMMb
-                                                                             @p~qp~~qMb
-                                                                             M|@||@) M|
-                                                                             @,----.JM|
-                                                                            JS^\__/  qKL
-                                                                           dZP        qKRb
-                                                                          dZP          qKKb
-                                                                         fZP            SMMb
-                                                                         HZM            MMMM
-                                                                         FqM            MMMM
-                                                                       __| ".        |\dS"qML
-                                                                       |    `.       | `' \Zq
-                                                                      _)      \.___.,|     .'
-                                                                      \____   )MMMMMP|   .'
-                                                                           `-'       `--' 
+                                                                           _nnnn_
+                                                                          dGGGGMMb
+                                                                         @p~qp~~qMb
+                                                                         M|@||@) M|
+                                                                         @,----.JM|
+                                                                        JS^\__/  qKL
+                                                                        dZP        qKRb
+                                                                       dZP          qKKb
+                                                                      fZP            SMMb
+                                                                      HZM            MMMM
+                                                                      FqM            MMMM
+                                                                    __| ".        |\dS"qML
+                                                                    |    `.       | `' \Zq
+                                                                   _)      \.___.,|     .'
+                                                                   \____   )MMMMMP|   .'
+                                                                        `-'       `--' 
                                                                      
 
 
